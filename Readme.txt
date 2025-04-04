@@ -7,4 +7,4 @@ i Obvious J Kawanzaruwa the author or programmer of this codebase
 
 - Over and Above the project was something not easy to come up with especially adhering to the
 instruction of not using Frameworks, because most of developers are used to easy builders 
-methods such as Bootsrap, e.t.c
+methods such as Bootstrap, e.t.c
