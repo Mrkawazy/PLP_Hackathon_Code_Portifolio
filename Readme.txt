@@ -8,3 +8,7 @@ i Obvious J Kawanzaruwa the author or programmer of this codebase
 - Over and Above the project was something not easy to come up with especially adhering to the
 instruction of not using Frameworks, because most of developers are used to easy builders 
 methods such as Bootstrap, e.t.c
+
+this site has been hosted on 
+https://plp-hackathon-code-portifolio.vercel.app/
+for now pardon me this is not device responsive it my wish that if more time was afforded I would have done justice with regards to that 
